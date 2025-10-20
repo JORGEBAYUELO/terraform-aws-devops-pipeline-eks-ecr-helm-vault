@@ -786,6 +786,6 @@ kubectl config delete-context arn:aws:eks:us-east-1:<ACCOUNT>:cluster/secure-eks
 
 **GitHub Actions CI workflow**
 
-![GitHub Actions CI](screenshots/GitHub-Actions-CI.png)
+#![GitHub Actions CI](screenshots/GitHub-Actions-CI.png)
 
 **Author:** Created by **Jorge Bayuelo — AWS Certified | Cloud DevOps Engineer**
