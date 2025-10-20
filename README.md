@@ -786,6 +786,32 @@ kubectl config delete-context arn:aws:eks:us-east-1:<ACCOUNT>:cluster/secure-eks
 
 **GitHub Actions CI workflow**
 
-#![GitHub Actions CI](screenshots/GitHub-Actions-CI.png)
+![GitHub Actions CI](screenshots/GitHub-Actions-CI.png)
+
+**ArgoCD**
+
+![ArgoCD-01](screenshots/argocd-01.png)
+
+![ArgoCD-02](screenshots/argocd-02.png)
+
+![ArgoCD-03](screenshots/argocd-03.png)
+
+**Prometheus UI**
+
+![Prometheus Admin UI](screenshots/prometheus-Admin.png)
+
+**Grafana UI**
+
+![Grafana-UI-01](screenshots/Grafana-UI-01.png)
+
+![Grafana-UI-02](screenshots/Grafana-UI-02.png)
+
+![Grafana-UI-03](screenshots/Grafana-UI-03.png)
+
+**React App Live**
+
+![React App 01](screenshots/React-app-01.png)
+
+![React App 02](screenshots/React-app-02.png)
 
 **Author:** Created by **Jorge Bayuelo — AWS Certified | Cloud DevOps Engineer**
