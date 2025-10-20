@@ -782,4 +782,10 @@ kubectl config delete-context arn:aws:eks:us-east-1:<ACCOUNT>:cluster/secure-eks
 
 **Cost control** is essential. I included full teardown instructions and avoided unnecessary persistent resources during demos.
 
+## 19. Screenshots
+
+**GitHub Actions CI workflow**
+
+![GitHub Actions CI](screenshots/GitHub-Actions-CI.png)
+
 **Author:** Created by **Jorge Bayuelo — AWS Certified | Cloud DevOps Engineer**
