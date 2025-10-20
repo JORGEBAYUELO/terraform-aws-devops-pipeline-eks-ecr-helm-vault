@@ -798,7 +798,7 @@ kubectl config delete-context arn:aws:eks:us-east-1:<ACCOUNT>:cluster/secure-eks
 
 **Prometheus UI**
 
-![Prometheus Admin UI](screenshots/prometheus-Admin.png)
+![Prometheus Admin UI](screenshots/Prometheus-Admin.png)
 
 **Grafana UI**
 
